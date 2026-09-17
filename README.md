@@ -1,3 +1,5 @@
+<img width="1412" height="603" alt="Screenshot_26" src="https://github.com/user-attachments/assets/7156de38-2dfc-4853-bfde-35e0db2c44ac" />
+<img width="1412" height="603" alt="Screenshot_26" src="https://github.com/user-attachments/assets/679fb4f2-abfc-4193-b600-f4f10b3fc2ea" />
 # 🚲 AdventureWorks Sales Performance Dashboard
 
 A comprehensive interactive sales dashboard built using **Microsoft Excel** to analyze business performance, track key performance indicators (KPIs), and uncover sales trends across regions and products.
